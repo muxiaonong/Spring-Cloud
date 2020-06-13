@@ -1,0 +1,9 @@
+#注册中心
+eureka:
+  client:
+    #设置服务注册中心的URL
+    service-url:
+      defaultZone: http://localhost:8500/eureka/
+  #服务名
+  instance:
+    appname: mxn

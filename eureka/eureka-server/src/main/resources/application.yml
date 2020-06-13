@@ -1,0 +1,19 @@
+server:
+  port: 8500
+eureka:
+  client:
+    healthcheck:
+      #开启健康检查，需要引入actuator
+      enabled: true
+    instance:
+      #发送心跳给server的频率，每隔这个时间会主动心跳一次
+      lease-renewal-interval-in-seconds: 1
+      #Server从收到client后，下一次收到心跳的间隔时间。超过这个时间没有接收到心跳EurekaServer就会将这个实例剔除
+      lease-expiration-duration-in-seconds: 1
+    #是否将自己注册到Eureka Server,默认为true，由于当前就是server，故而设置成false，表明该服务不会向eureka注册自己的信息
+    register-with-eureka: false
+    #是否从eureka server获取注册信息，由于单节点，不需要同步其他节点数据，用false
+    fetch-registry: false
+    #设置服务注册中心的URL，用于client和server端交流
+    service-url:
+      defaultZone: http://localhost:8080/eureka/
