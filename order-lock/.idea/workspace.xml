@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be924118-bfae-4ea5-8321-1e1352e66f96" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\javaTools\software\apache-maven-3.6.2\repository" />
+        <option name="mavenHome" value="F:/javaTools/software/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="F:\javaTools\software\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dnfVDzruiUNDcRN9n7k9Y58Slg" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server-order/src/main/java/com/mxn/order" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.36289382" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\school\mashibing\order-lock\server-order\src\main\java\com\mxn\order" />
+      <recent name="E:\school\mashibing\order-lock\server-order\src\main\java\com\mxn\order\controller" />
+      <recent name="E:\school\mashibing\order-lock\server-order\src\main\java" />
+      <recent name="E:\school\mashibing\order-lock\server-order\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.order-8004">
+    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mxn.order.Sum" />
+      <module name="server-order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mxn.order.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxn.eureka.servereureka.ServerEurekaApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="F:\javaTools\software\jdk1.8\jdk1.8.0_231\jre" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="order-8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxn.order.ServerOrderApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=8004" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="order-8005" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="server-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxn.order.ServerOrderApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--spring.profiles.active=8005" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Sum" />
+      <item itemvalue="Spring Boot.order-8005" />
+      <item itemvalue="Spring Boot.order-8004" />
+      <item itemvalue="Spring Boot.ServerEurekaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be924118-bfae-4ea5-8321-1e1352e66f96" name="Default Changelist" comment="" />
+      <created>1593065799171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593065799171</updated>
+      <workItem from="1593065800326" duration="5249000" />
+      <workItem from="1593435730100" duration="645000" />
+      <workItem from="1593603068859" duration="4597000" />
+      <workItem from="1593688641581" duration="29000" />
+      <workItem from="1594947506384" duration="7461000" />
+      <workItem from="1594994752004" duration="598000" />
+      <workItem from="1595035431276" duration="5556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
