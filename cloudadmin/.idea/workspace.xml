@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76500d08-8d0e-46f1-bd47-673ea06d6586" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\javaTools\software\apache-maven-3.6.2\repository" />
+        <option name="mavenHome" value="F:/javaTools/software/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="F:\javaTools\software\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g7E9jMg99Utbbf8kgcK4iliMZ4" />
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/user-provider/src/main/java/com/mxn/userprovider" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\school\mashibing\cloudadmin\user-provider\src\main\java\com\mxn\userprovider" />
+      <recent name="E:\school\mashibing\cloudadmin\user-consumer\src\main\resources" />
+      <recent name="E:\school\mashibing\cloudadmin\user-consumer\src\main\java\com\example\userconsumer" />
+      <recent name="E:\school\mashibing\cloudadmin\eureka-server\src\main\resources" />
+      <recent name="E:\school\mashibing\cloudadmin\eureka-server\src\main\java\com\mxn\eurekaserver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserConsumerApplication">
+    <configuration name="AdminTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="admin-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxn.admintest.AdminTestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxn.userapi.UserApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.userconsumer.UserConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxn.userprovider.UserProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxn.eurekaserver.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="euk1" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=euk1" />
+      <option name="PROGRAM_PARAMETERS" value="-Dspring.profiles.active=euk1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eureka-7002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxn.eurekaserver.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="euk2" />
+      <option name="VM_PARAMETERS" value="-Dspring.profiles.active=euk2" />
+      <option name="PROGRAM_PARAMETERS" value="-Dspring.profiles.active=euk2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.eureka-7002" />
+      <item itemvalue="Spring Boot.eureka-7001" />
+      <item itemvalue="Spring Boot.AdminTestApplication" />
+      <item itemvalue="Spring Boot.UserProviderApplication" />
+      <item itemvalue="Spring Boot.UserApiApplication" />
+      <item itemvalue="Spring Boot.UserConsumerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76500d08-8d0e-46f1-bd47-673ea06d6586" name="Default Changelist" comment="" />
+      <created>1597457080027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597457080027</updated>
+      <workItem from="1597457081340" duration="7102000" />
+      <workItem from="1597588512424" duration="240000" />
+      <workItem from="1597674455631" duration="1181000" />
+      <workItem from="1597675656073" duration="3076000" />
+      <workItem from="1597849909091" duration="778000" />
+      <workItem from="1598060580806" duration="5016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
